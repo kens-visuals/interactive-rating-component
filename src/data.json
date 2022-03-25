@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "QR Code Generator",
+    "site": "https://kens-visuals.github.io/qr-code-generator/",
+    "repo": "https://github.com/kens-visuals/qr-code-generator",
+    "img": "https://raw.githubusercontent.com/kens-visuals/frontend-mentor/main/screenshots/qr-code-generator-screenshot.png"
+  },
+  {
+    "id": 2,
+    "name": "Advice Generator App",
+    "site": "https://kens-visuals.github.io/advice-generator-app/",
+    "repo": "https://github.com/kens-visuals/advice-generator-app",
+    "img": "https://raw.githubusercontent.com/kens-visuals/frontend-mentor/main/screenshots/advice-generator-app-screenshot.png"
+  },
+  {
+    "id": 3,
+    "name": "NFT Preview Card Generator",
+    "site": "https://kens-visuals.github.io/nft-preview-generator/",
+    "repo": "https://github.com/kens-visuals/nft-preview-generator",
+    "img": "https://raw.githubusercontent.com/kens-visuals/frontend-mentor/main/screenshots/nft-preview-generator-screenshot.png"
+  },
+  {
+    "id": 4,
+    "name": "Tip Calculator App",
+    "site": "https://kens-visuals.github.io/tip-calculator-app/",
+    "repo": "https://github.com/kens-visuals/tip-calculator-app",
+    "img": "https://raw.githubusercontent.com/kens-visuals/frontend-mentor/main/screenshots/tip-calculator-app-screenshot.png"
+  },
+  {
+    "id": 5,
+    "name": "Crowdfunding Product Page",
+    "site": "https://kens-crowdfund.netlify.app/",
+    "repo": "https://github.com/kens-visuals/crowdfunding-product-page",
+    "img": "https://raw.githubusercontent.com/kens-visuals/frontend-mentor/main/screenshots/crowdfunding-product-page-screenshot.png"
+  },
+  {
+    "id": 6,
+    "name": "Social Media Dashboard",
+    "site": "https://kens-visuals.github.io/social-media-dashboard/",
+    "repo": "https://github.com/kens-visuals/social-media-dashboard",
+    "img": "https://raw.githubusercontent.com/kens-visuals/frontend-mentor/main/screenshots/social-media-dashboard-with-theme-switcher-screenshot.png"
+  },
+  {
+    "id": 7,
+    "name": "Quizzical App",
+    "site": "https://kens-visuals.github.io/quizzical-app/",
+    "repo": "https://github.com/kens-visuals/quizzical-app",
+    "img": "https://github.com/kens-visuals/react-projects/raw/main/screenshots/quizzical-app-screenshot.png"
+  }
+]
