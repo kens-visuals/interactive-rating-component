@@ -49,8 +49,8 @@ export default function BoxFront({
       </span>
 
       <p className="mt-2 text-sm leading-6 text-primary-dark">
-        Please let us know how we did with your support request. All feedback is
-        appreciated to help us improve our offering!
+        Please let me know how I did with these projects. All feedback is
+        appreciated to help me improve!
       </p>
 
       <div className="my-5 flex items-center justify-between">

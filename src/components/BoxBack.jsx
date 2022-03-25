@@ -16,8 +16,8 @@ export default function BoxBack({ rateReset, rating }) {
 
       <h1 className="md:text-3x text-2xl font-normal text-white">Thank you!</h1>
       <p className="mt-2 text-center text-sm leading-6 text-primary-dark">
-        We appreciate you taking the time to give a rating. If you ever need
-        more support, don’t hesitate to get in touch!
+        I appreciate you taking the time to give a rating. This review will help
+        me to improve my future work.
       </p>
       <button
         type="button"
