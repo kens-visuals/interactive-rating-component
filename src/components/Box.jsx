@@ -4,8 +4,7 @@ import { useState } from 'react';
 import BoxFront from './BoxFront';
 import BoxBack from './BoxBack';
 
-// { name, img, repo, site, goForward, setNum }
-export default function Box({ ...boxDisplay }, setNum) {
+export default function Box({ setNum, goForward, ...boxDisplay }) {
   const [rating, setRating] = useState(null);
   const [isSubmitted, setIsSubmitted] = useState(false);
 
@@ -30,13 +29,14 @@ export default function Box({ ...boxDisplay }, setNum) {
       }`}
     >
       {isSubmitted ? (
-        <BoxBack boxDisplay={boxDisplay} rateReset={rateReset} />
+        <BoxBack {...boxDisplay} rateReset={rateReset} rating={rating} />
       ) : (
         <BoxFront
-          boxDisplay={boxDisplay}
+          {...boxDisplay}
           rateProject={rateProject}
           rating={rating}
           setRating={setRating}
+          goForward={goForward}
         />
       )}
     </div>

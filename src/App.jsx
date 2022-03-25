@@ -4,7 +4,7 @@ import Box from 'components/Box';
 import DATA from './data.json';
 
 function App() {
-  const [num, setNum] = useState(1);
+  const [num, setNum] = useState(0);
 
   const goForward = () => (num < DATA.length - 1 ? setNum(num + 1) : setNum(0));
 
