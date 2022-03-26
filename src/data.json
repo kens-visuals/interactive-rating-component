@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "name": "QR Code Generator",
-    "site": "https://kens-visuals.github.io/qr-code-generator/",
-    "repo": "https://github.com/kens-visuals/qr-code-generator",
-    "img": "https://raw.githubusercontent.com/kens-visuals/frontend-mentor/main/screenshots/qr-code-generator-screenshot.png"
-  },
-  {
-    "id": 2,
     "name": "Advice Generator App",
     "site": "https://kens-visuals.github.io/advice-generator-app/",
     "repo": "https://github.com/kens-visuals/advice-generator-app",
     "img": "https://raw.githubusercontent.com/kens-visuals/frontend-mentor/main/screenshots/advice-generator-app-screenshot.png"
+  },
+  {
+    "id": 2,
+    "name": "QR Code Generator",
+    "site": "https://kens-visuals.github.io/qr-code-generator/",
+    "repo": "https://github.com/kens-visuals/qr-code-generator",
+    "img": "https://raw.githubusercontent.com/kens-visuals/frontend-mentor/main/screenshots/qr-code-generator-screenshot.png"
   },
   {
     "id": 3,
