@@ -48,7 +48,7 @@ Users should be able to:
 
 ### What I learned
 
-This was my first challenge completed with TailwindCSS. As most of you, at the beginning I was skeptical about TailwindCSS, but after playing with it for a while I decided to give it a try in one of the challenges. Since this was I small challenge, I decided to add a bit more functionality, so I created a `data.json` file and included some of my previous projects, their screenshots, links to live website and repository. I think it came out pretty cool. And yes I liked TailwindCSS, I'm planning on using it on a bigger project.
+This was my first challenge completed with Tailwind CSS. As most of the people, at the beginning, I was skeptical about Tailwind CSS, but after playing with it for a while I decided to give it a try in one of the challenges. Since this was I small challenge, I decided to add a bit more functionality, so I created a data.json file and included some of my previous projects, their screenshots, links to live website and repository. I think it came out pretty cool. And yes I liked Tailwind CSS, I'm planning on using it on a bigger project.
 
 ### Continued development
 

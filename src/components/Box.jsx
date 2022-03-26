@@ -23,7 +23,7 @@ export default function Box({ setNum, goForward, ...boxDisplay }) {
   };
 
   return (
-    <div
+    <main
       className={`w-[87%] max-w-[25rem] rounded-3xl bg-gradient-to-b from-primary to-primary/60 p-6 pb-8 md:p-10 ${
         isSubmitted && 'flex flex-col items-center justify-center'
       }`}
@@ -39,6 +39,6 @@ export default function Box({ setNum, goForward, ...boxDisplay }) {
           rateProject={rateProject}
         />
       )}
-    </div>
+    </main>
   );
 }
