@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Live Site URL: [https://kens-visuals.github.io/interactive-rating-component/](https://kens-visuals.github.io/interactive-rating-component/)
-- Solution URL: [TO_BE_UPDATED](TO_BE_UPDATED)
+- Solution URL: [https://www.frontendmentor.io/solutions/interactive-rating-component-solution-built-with-react-and-tailwindcss-B19iTMpG9](https://www.frontendmentor.io/solutions/interactive-rating-component-solution-built-with-react-and-tailwindcss-B19iTMpG9)
 
 ## My process
 
